@@ -1,2 +1,3 @@
 # Heart_Disease_Prediction
-#Kaggle_ML -> Python Streamlit app -> Github Add,Commit,Push -> Deploy in Render
+#Kaggle_ML -> Python Streamlit app -> venv all install, requirements, streamlit run app.py -> Github Add,Commit,Push -> Deploy in Render
+#Github main repo for -> clone from terminal, cd repo -> changes -> add,commit,push -> pull request -> merge pull
